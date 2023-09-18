@@ -1,0 +1,44 @@
+body {
+
+    width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    margin-left: 30%;
+}
+
+main{
+    height: 80px;
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    border-color: black;
+}
+
+input[type="number"] {
+    width: 20%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: skyblue;
+}
+
+button {
+    background-color: yellow;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-bottom: black;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    background-color: skyblue;
+}
